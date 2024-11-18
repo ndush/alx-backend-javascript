@@ -9,6 +9,12 @@
 ![Arrow Functions](./main-files/node_js-img.png)
 
 ## Resources
+- https://github.com/mbeaudru/modern-js-cheatsheet
+- https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+- https://darrenderidder.github.io/talks/ModulePatterns/#/14
+- https://www.youtube.com/watch?v=sjyJBL5fkp8
+- https://www.youtube.com/watch?v=vZBCTc9zHtI
+- https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics
 
 ### Read or watch:-
 
