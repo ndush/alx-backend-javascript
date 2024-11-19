@@ -15,6 +15,11 @@
 - https://www.youtube.com/watch?v=sjyJBL5fkp8
 - https://www.youtube.com/watch?v=vZBCTc9zHtI
 - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics
+- https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Classes_in_JavaScript
+- https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes
+- https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Classes_in_JavaScript
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+- https://alistapart.com/article/getoutbindingsituations/
 
 ### Read or watch:-
 
